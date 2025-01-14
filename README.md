@@ -9,8 +9,6 @@ Frontend: React, Material-UI, Axios, Chart.js
 
 Backend: Node.js, Express.js, MongoDB (Mongoose), JSON Web Token (JWT)
 
-Tools: Git, Fly.io (optional for deployment)
-
 
 ## Steps to run this project locally
 
