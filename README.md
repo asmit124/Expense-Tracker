@@ -19,7 +19,7 @@ Both the client and the server must run simultaneously for the application to fu
 Clone the project from the GitHub repository:
 
 ```bash
-  git clone <repository-url>
+  git clone https://github.com/asmit124/Expense-Tracker
 ```
 
 Go to the "server" directory:
